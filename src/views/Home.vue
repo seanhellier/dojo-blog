@@ -17,8 +17,5 @@ export default {
     }
     return { name, age, handleClick }
   },
-  mounted() {
-    console.log('mounted')
-  }
 }
 </script> 
