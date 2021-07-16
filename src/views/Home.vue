@@ -10,7 +10,6 @@
 export default {
   name: 'Home',
   setup() {
-    console.log('setup')
     let name = 'mario'
     let age = 30
     const handleClick = (e) => {
@@ -22,4 +21,4 @@ export default {
     console.log('mounted')
   }
 }
-</script>
+</script> 
